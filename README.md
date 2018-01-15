@@ -20,7 +20,5 @@ ii Y. Koren, R. Bell, and C. Volinsky. “Matrix factorization techniques for re
 
 iii B. Sarwar, G. Karypis, J. Konstan, and J. Riedl. “Application of dimensionality reduction in recommender system-a case study”, innesota Univ Minneapolis Dept of Computer Science 2000.
 
-iv B. Sarwar, G. Karypis, J. Konstan, and J. Riedl. “Incremental singular value decomposition algorithms for highly scalable recommender systems.” In Fifth
-
-International Conference on Computer and Information Science, pp. 27-28. Citeseer, 2002.
+iv B. Sarwar, G. Karypis, J. Konstan, and J. Riedl. “Incremental singular value decomposition algorithms for highly scalable recommender systems.” In Fifth International Conference on Computer and Information Science, pp. 27-28. Citeseer, 2002.
 v M. W. Berry, S. T. Dumais, and G. W. O’Brien. “Using linear algebra for intelligent information retrieval.” SIAM review, vol.37, no. 4, pp. 573-595, 1995.
