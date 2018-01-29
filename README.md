@@ -4,7 +4,7 @@ This is  a project to validate the compatibility of the famous Netflix Winner-SV
 
 You can find Top_N, Prediction, Online and Offline version of the SVD based recommender system here.
 
-Even I fine tuned the system based on my experience and some related publications. The performance is still below the expectation for the following dataset. SVD is not a pervasive solution for recommendation system. 
+Even I fine tuned the system based on my experience and some related publications. The performance was still below the expectation for the following dataset. SVD is not a pervasive solution for recommendation system. 
 
 [Dataset](http://goldberg.berkeley.edu/jester-data/): jester-data-1.zip : (3.9MB) Data from 24,983 users who have rated 36 or more jokes, a matrix with dimensions 24983 X 101. (You need convert the dataset to .mat file to run the code)
 
