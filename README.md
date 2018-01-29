@@ -1,17 +1,17 @@
 # SVD_Recommender (Inspired by the Netflix Prize winner algorithm. )
 
-I am a project to validate the compatibility of the famous Netflix Winner-SVD based recommender system. 
+This is  a project to validate the compatibility of the famous Netflix Winner-SVD based recommender system. 
 
 You can find Top_N, Prediction, Online and Offline version of the SVD based recommender system here.
 
-The conclusion is SVD based recommender system is not suitable for the following dataset. 
+Even I fine tuned the system based on my experience and some related publications. The performance is still below the expectation for the following dataset. SVD is not a pervasive solution for recommendation system. 
 
 [Dataset](http://goldberg.berkeley.edu/jester-data/): jester-data-1.zip : (3.9MB) Data from 24,983 users who have rated 36 or more jokes, a matrix with dimensions 24983 X 101. (You need convert the dataset to .mat file to run the code)
 
 Code is well commented. You can find the plots .jpg files in the repo. 
 
 
-Papers I read:
+# Papers I read:
 
 i P. Cremonesi, Y. Koren, and R. Turrin. “Performance of recommender algorithms on
 top-n recommendation tasks.” In Proceedings of the fourth ACM conference on Recommender systems, pp. 39-46. ACM, 2010.
