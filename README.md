@@ -1,6 +1,6 @@
 # SVD_Recommender (Inspired by the Netflix Prize winner algorithm. )
 
-This is  a project to validate the compatibility of the famous Netflix Winner-SVD based recommender system. 
+This is  a project to validate the compatibility of the famous Netflix Winner-SVD based recommender validation system. Python code can be acquired upon inquiry. 
 
 You can find Top_N, Prediction, Online and Offline version of the SVD based recommender system here.
 
